@@ -1,0 +1,30 @@
+Javascript => 
+{
+    Javascript was my 3rd language to learn, it was one of the best languages
+    I became confident with. Personally, it was the best language I coded, loved, and professionalize
+    with. I learned the React Framework along with React Native (Hybird-mobile development using react)
+    and a little bit about Vue. I made my biggest personal project using React Native 
+    <a href="https://github.com/obadam11/O-chat.git"> O-chat, a mobile chatting application </a>.
+    This was around 2000 lines of code where I used Firbase as my backend for database and authentication
+    and React Native as my front-end. I also made a <a href="https://github.com/obadam11/Flappy-Bird.git"> 
+    Flappy Bird Clone </a> and a  <a href="https://github.com/obadam11/Snake-Game-.git"> Sanke Game </a>
+    .I once needed a wider view of my youtube videos and playlist, So I created 
+    <a href="https://github.com/obadam11/Obadas-Tv.git"> Obada TV </a>. In my opnion, javascript made me more
+    passionate for programming ,and the phase in which I learned javascript I learned a lot of my advanced prgramming 
+    concepts.
+}
+
+Python => {
+    Python was my first language to learn. My foundation in programming and my basic programming concepts 
+    originated from Python. If statments, while loops, and for loops were my some concepts I learned from 
+    python programming. I also made some intresting projects using python; one of my projects was to automate
+    the daily signing in and opening the homeworks tab in the school website while I am preparing my books
+    to start studiying. I also made a <a href="https://github.com/obadam11/simple-to-do-list.git"> 
+    Todo List GUI </a> to help me plan my day, an <a href="https://github.com/obadam11/Mp3-Player.git"> 
+    MP3 player </a> to play my songs and music, a <a href="https://github.com/obadam11/Car-Escape-Game.git"> 
+    Car Escaping Game</a> to learn a little in game development, and a <a href="https://github.com/obadam11/Youtube-MP3-Downloader.git">
+    Youtube MP3 downloader </a> to help me  my favorite  music from youtube without security risks
+    . Finally, Python was what made me today. With its simplicity and begginer-friendly logic 
+    I was able to achieve a strong foundation.
+}
+
