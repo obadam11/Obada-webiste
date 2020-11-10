@@ -28,3 +28,15 @@ Python => {
     I was able to achieve a strong foundation.
 }
 
+Java => {
+    Java was the second programming I learned after python. It introduced me to staically typed programming 
+    languages, OOP(Object Oriented Programming), and compiled programming languages. 
+    After a while in programming and learning new lanuguges and concepts, in java I learned 
+    about data structures and algorithms.
+}
+
+Typescript => {
+    Typescript is my personal favorite programming language. It has all the things that javascript does
+    plus more features like interfaces, static typing, and a better OOP(Object Oriented Programming) code.
+    Typescript is compiled of course.
+}

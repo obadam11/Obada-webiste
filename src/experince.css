@@ -23,11 +23,13 @@
 
 .git {
     font-weight: bold;
-    padding-left: 10px;
+    /* padding-left: 10px;*/
+    padding: 10px;
    /* background-color: #B73225; */
    /* height: 200px; */
-   background-color: #cccccc;
-   background-image: radial-gradient(white, red);
+   background-color: #f34f29;
+   /* background-image: radial-gradient(white, red); */
+   margin-bottom: 5px;
 }
 
 .Git_Word {
@@ -46,4 +48,27 @@ img {
   img:hover {
     -webkit-transform: rotate(360deg);
             transform: rotate(360deg);
+  }
+  .javascript {
+      background-color: #f7df1e;
+      padding: 10px;
+      font-weight: bold;
+      margin-bottom: 10px;
+
+  }
+  .python {
+      background-color: lightblue;
+      padding: 10px;
+      font-weight: bold;
+      margin-bottom: 10px;
+  }
+  .java {
+    background-color: #339999;
+    padding: 10px;
+    font-weight: bold;
+  }
+  .typescript {
+      margin-bottom: 10px;
+      font-weight: bold;
+      background-color: #007acc ;
   }
